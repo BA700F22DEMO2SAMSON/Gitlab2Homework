@@ -2,3 +2,8 @@
 
 select count(*)
 from customers;
+
+
+
+select count(GENDER)
+from customers;
